@@ -1,0 +1,48 @@
+
+╔════════════════════════════════════════════════════════════════════╗
+║        GITHUB PUSH INSTRUCTIONS                                   ║
+║        Repository: https://github.com/Khansameercr7/               ║
+║                   mnist-digit-recognition                         ║
+╚════════════════════════════════════════════════════════════════════╝
+
+STEP 1: Ensure you have Git installed
+  Command: git --version
+
+STEP 2: Navigate to project directory
+  Command: cd C:\Machine\ learning\Internship\Project\MNIST_Project
+
+STEP 3: Initialize Git (if not already done)
+  Command: git init
+
+STEP 4: Add your GitHub repository as remote
+  Command: git remote add origin https://github.com/Khansameercr7/mnist-digit-recognition.git
+
+STEP 5: Verify remote is added
+  Command: git remote -v
+
+STEP 6: Stage all files
+  Command: git add .
+
+STEP 7: Create initial commit
+  Command: git commit -m "Initial commit: MNIST Digit Recognition System with 99.43% accuracy"
+
+STEP 8: Push to main branch
+  Command: git branch -M main
+  Command: git push -u origin main
+
+STEP 9: Verify push was successful
+  ✓ Visit: https://github.com/Khansameercr7/mnist-digit-recognition
+  ✓ Files should appear in the repository
+
+═══════════════════════════════════════════════════════════════════
+
+COMMIT MESSAGE TEMPLATE:
+"MNIST Digit Recognition System - Phase 3 Complete
+- 99.43% model accuracy
+- Flask web deployment
+- Keras Tuner optimization
+- 70K training samples
+- Real-time predictions
+- Confidence-based validation"
+
+═══════════════════════════════════════════════════════════════════

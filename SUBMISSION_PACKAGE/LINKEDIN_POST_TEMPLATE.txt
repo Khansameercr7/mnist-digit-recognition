@@ -1,0 +1,44 @@
+
+╔════════════════════════════════════════════════════════════════════╗
+║              LINKEDIN POST TEMPLATE                               ║
+╚════════════════════════════════════════════════════════════════════╝
+
+🔢 Excited to share my MNIST Digit Recognition project - completed during my 
+internship at @Arch Technologies!
+
+🎯 PROJECT HIGHLIGHTS:
+✓ 99.43% Model Accuracy on 70,000 official MNIST samples
+✓ Bayesian Hyperparameter Optimization using Keras Tuner
+✓ Flask Web Application with Real-time Predictions
+✓ Confidence-based Validation (50%+ threshold)
+✓ RESTful API with 5 endpoints
+✓ Interactive UI with Preprocessing Visualization
+
+💡 KEY ACHIEVEMENTS:
+• Improved model accuracy from 87% → 99.43% (+12.4%)
+• Implemented intelligent suggestion system
+• Real-time drawing validation & feedback
+• Model performance metrics dashboard
+• Professional deployment-ready system
+
+🛠️ TECH STACK:
+• Python | TensorFlow/Keras | Flask
+• Bayesian Optimization | CNN Architecture
+• Docker | RESTful APIs
+
+📊 RESULTS:
+Per-digit accuracy: 98.78% - 99.91%
+Average confidence: 95-99% on clear digits
+Prediction latency: <100ms
+Training data: 70,000 samples
+
+🔗 GitHub: [Repository Link]
+📝 Check out the complete implementation with detailed documentation!
+
+Special thanks to @Arch Technologies for the opportunity to work on 
+this comprehensive ML project!
+
+#MachineLearning #DeepLearning #Internship #ArchTechnologies 
+#TensorFlow #Flask #MNIST #Python #DigitRecognition
+
+═══════════════════════════════════════════════════════════════════
